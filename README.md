@@ -1,6 +1,6 @@
-##Cocktails
+##Cocktails##
 
-Screenshots
+**Screenshots**
 
 ![image](https://user-images.githubusercontent.com/66732877/119220181-dbfe3500-bb06-11eb-96f1-f06e9987402d.png)
 
